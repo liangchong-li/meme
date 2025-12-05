@@ -1,0 +1,30 @@
+{
+  "network": "sepolia",
+  "chainId": "unknown",
+  "contract": {
+    "name": "MemeToken",
+    "address": "0x7eF7E847A6107e2cBCef23D587C43a9807F321D0",
+    "deployer": "0x86a7cF6f44eFFcd89041786DaFcEda1672F7a253",
+    "transactionHash": "0x33740b3e0f58060f21bb712b8baeb11889517d81fb317969c8e6502a451d8958",
+    "blockNumber": 9774314,
+    "timestamp": "2025-12-05T11: 57: 18.699Z"
+  },
+  "configuration": {
+    "tokenName": "MemeToken",
+    "tokenSymbol": "LCMT",
+    "initialSupply": "1000000000",
+    "marketingWallet": "0x86a7cF6f44eFFcd89041786DaFcEda1672F7a253",
+    "teamWallet": "0x86a7cF6f44eFFcd89041786DaFcEda1672F7a253",
+    "uniswapRouter": "0xC532a74256D3Db42D0Bf7a0400fEFDbad7694008"
+  },
+  "verification": {
+    "constructorArguments": [
+      "MemeToken",
+      "LCMT",
+      "1000000000000000000000000000",
+      "0x86a7cF6f44eFFcd89041786DaFcEda1672F7a253",
+      "0x86a7cF6f44eFFcd89041786DaFcEda1672F7a253",
+      "0xC532a74256D3Db42D0Bf7a0400fEFDbad7694008"
+    ]
+  }
+}
